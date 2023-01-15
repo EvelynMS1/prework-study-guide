@@ -1,0 +1,42 @@
+*{
+    /* indicating that there is no margin around the element */
+    margin:0;
+    padding:0;
+}
+/* in this piece of code we combined two elements or selectors that we will be targetting as to shorten our lines of code that will in essence use the same styling declerations */
+header,
+footer{
+    width:100%;
+    height: 120px;
+    background-color:blue;
+    color:white;
+}
+/* The decleration part is assigning a positioning property to the headings */
+h1,
+h2{
+    text-align:center;
+}
+img{
+    display:block;
+    height:50px;
+    width:50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+ul{
+    padding-left:40px;
+    font-size:20px;
+}
+p{
+    text-align:center;
+    font-size:30px;
+}
+/* margin 40 is set to the top and bottom while the auto is for the right and left  */
+/* for the box shadow the properties are assigned to the x and y  */
+.card{
+    width:800px;
+    margin:40px auto;
+    border:5px solid gray;
+    box-shadow: 5px 10px #888888;
+}

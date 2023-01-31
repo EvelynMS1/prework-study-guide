@@ -3,7 +3,7 @@
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-The motivation behind this prework study guide was to develop and showcase my HTML, CSS, and JavaScript along with learning the flow of git and feature branches.The purpose of this project was to faciliate studying, having notes gathered in one locationa while implementing an organized layout with the help of css, making it developer friendly. I learned of bugs and variables as well as implementing Javascript for interactivness with the website.  
+The motivation behind this prework study guide was to develop and showcase my HTML, CSS, and JavaScript along with learning the flow of git and feature branches.The purpose of this project was to faciliate studying, having notes gathered in one locationa while implementing an organized layout with the help of css, making it developer friendly. I learned of bugs and variables as well as implementing 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
